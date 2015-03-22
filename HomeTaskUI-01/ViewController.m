@@ -81,17 +81,17 @@
 
 
 - (IBAction)onSlideRed:(id)sender {
-    self.labelSliderRedValue.text = [NSString stringWithFormat:@"%.f", self.sliderRed.value];
+    self.labelSliderRedValue.text = [NSString stringWithFormat:@"%f", self.sliderRed.value];
     [self changeLabelColor];
 }
 
 - (IBAction)onSlideGreen:(id)sender {
-    self.labelSliderGreenValue.text = [NSString stringWithFormat:@"%.f", self.sliderGreen.value];
+    self.labelSliderGreenValue.text = [NSString stringWithFormat:@"%f", self.sliderGreen.value];
     [self changeLabelColor];
 }
 
 - (IBAction)onSlideBlue:(id)sender {
-    self.labelSliderBlueValue.text = [NSString stringWithFormat:@"%.f", self.sliderBlue.value];
+    self.labelSliderBlueValue.text = [NSString stringWithFormat:@"%f", self.sliderBlue.value];
     [self changeLabelColor];
 }
 

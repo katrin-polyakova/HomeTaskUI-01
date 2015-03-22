@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F029197F-0E6E-4C88-B7BC-A9A623CFCD7A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HomeTaskUI-01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FCFE3AB4629007C8F535422756849CA6AB234AD2</key>
+		<string>https://github.com/katrin-polyakova/HomeTaskUI-01.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HomeTaskUI-01.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FCFE3AB4629007C8F535422756849CA6AB234AD2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/katrin-polyakova/HomeTaskUI-01.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FCFE3AB4629007C8F535422756849CA6AB234AD2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCFE3AB4629007C8F535422756849CA6AB234AD2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HomeTaskUI-01</string>
+		</dict>
+	</array>
+</dict>
+</plist>
